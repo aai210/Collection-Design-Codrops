@@ -1,7 +1,7 @@
 # Collection Design Codrops
 Collection of favorite projects with Codrops
 
----
+# Projects
 
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/09/AnimatedHeaderBackgrounds.png)
 
