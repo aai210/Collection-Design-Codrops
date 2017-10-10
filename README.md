@@ -1,5 +1,5 @@
 # Collection Design Codrops
-Collection of favorite projects with Codrops
+Inspiring collection of favorite projects with Codrops
 
 # Projects
 
