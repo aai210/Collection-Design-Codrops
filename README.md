@@ -20,3 +20,9 @@ Inspiration for Article Intro Effects - [Codrops](https://tympanus.net/codrops/2
 Arrow Navigation Styles - [Codrops](https://tympanus.net/codrops/2014/05/28/arrow-navigation-styles/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/06/InlineLinkStyles.png)
+
+Inspiration for Inline Anchor Styles - [Codrops](https://tympanus.net/codrops/2014/06/04/inspiration-for-inline-anchor-styles/)
+
+---
