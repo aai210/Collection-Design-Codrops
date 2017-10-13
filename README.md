@@ -26,3 +26,9 @@ Arrow Navigation Styles - [Codrops](https://tympanus.net/codrops/2014/05/28/arro
 Inspiration for Inline Anchor Styles - [Codrops](https://tympanus.net/codrops/2014/06/04/inspiration-for-inline-anchor-styles/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/10/TooltipStylesInspiration.png)
+
+Tooltip Styles Inspiration - [Codrops](https://tympanus.net/codrops/2014/10/07/tooltip-styles-inspiration/)
+
+---
