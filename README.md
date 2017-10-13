@@ -32,3 +32,9 @@ Inspiration for Inline Anchor Styles - [Codrops](https://tympanus.net/codrops/20
 Tooltip Styles Inspiration - [Codrops](https://tympanus.net/codrops/2014/10/07/tooltip-styles-inspiration/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2013/12/MerryChristmasCodrops_Main.png)
+
+Merry Christmas with a Bursting Gift Box - [Codrops](https://tympanus.net/codrops/2013/12/24/merry-christmas-with-a-bursting-gift-box/)
+
+---
