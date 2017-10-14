@@ -38,3 +38,9 @@ Tooltip Styles Inspiration - [Codrops](https://tympanus.net/codrops/2014/10/07/t
 Merry Christmas with a Bursting Gift Box - [Codrops](https://tympanus.net/codrops/2013/12/24/merry-christmas-with-a-bursting-gift-box/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/02/FullscreenOverlayStyles.jpg)
+
+Fullscreen Overlay Effects - [Codrops](https://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/)
+
+---
