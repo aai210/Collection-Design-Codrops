@@ -44,3 +44,9 @@ Merry Christmas with a Bursting Gift Box - [Codrops](https://tympanus.net/codrop
 Fullscreen Overlay Effects - [Codrops](https://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2013/08/sidebartransitions.png)
+
+Transitions for Off-Canvas Navigations - [Codrops](https://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/)
+
+---
