@@ -56,3 +56,9 @@ Transitions for Off-Canvas Navigations - [Codrops](https://tympanus.net/codrops/
 Drag and Drop Interaction Ideas - [Codrops](https://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/02/BorderAnimationSVG.png)
+
+Creating a Border Animation Effect with SVG and CSS - [Codrops](https://tympanus.net/codrops/2014/02/26/creating-a-border-animation-effect-with-svg-and-css/)
+
+---
