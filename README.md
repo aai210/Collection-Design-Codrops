@@ -62,3 +62,9 @@ Drag and Drop Interaction Ideas - [Codrops](https://tympanus.net/codrops/2014/11
 Creating a Border Animation Effect with SVG and CSS - [Codrops](https://tympanus.net/codrops/2014/02/26/creating-a-border-animation-effect-with-svg-and-css/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2015/02/ButtonStylesInspiration.png)
+
+Inspiration for Button Styles and Effects - [Codrops](https://tympanus.net/codrops/2015/02/26/inspiration-button-styles-effects/)
+
+---
