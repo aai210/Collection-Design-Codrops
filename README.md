@@ -68,3 +68,9 @@ Creating a Border Animation Effect with SVG and CSS - [Codrops](https://tympanus
 Inspiration for Button Styles and Effects - [Codrops](https://tympanus.net/codrops/2015/02/26/inspiration-button-styles-effects/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2015/05/LinkStylesHoverEffects.jpg)
+
+Inspiration for Text Styles and Hover Effects - [Codrops](https://tympanus.net/codrops/2015/05/13/inspiration-for-text-styles-and-hover-effects/)
+
+---
