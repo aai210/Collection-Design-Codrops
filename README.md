@@ -74,3 +74,9 @@ Inspiration for Button Styles and Effects - [Codrops](https://tympanus.net/codro
 Inspiration for Text Styles and Hover Effects - [Codrops](https://tympanus.net/codrops/2015/05/13/inspiration-for-text-styles-and-hover-effects/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2015/06/CardExpansion.jpg)
+
+Card Expansion Effect with SVG clipPath - [Codrops](https://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
+
+---
