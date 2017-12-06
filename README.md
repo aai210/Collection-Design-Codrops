@@ -80,3 +80,9 @@ Inspiration for Text Styles and Hover Effects - [Codrops](https://tympanus.net/c
 Card Expansion Effect with SVG clipPath - [Codrops](https://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2016/06/InteractiveRecordPlayer_800x600.jpg)
+
+Interactive Record Player - [Codrops](https://tympanus.net/codrops/2016/06/15/interactive-record-player/)
+
+---
