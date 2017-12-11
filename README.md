@@ -87,7 +87,7 @@ Interactive Record Player - [Codrops](https://tympanus.net/codrops/2016/06/15/in
 
 ---
 
-![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2016/09/NavigationIndicators_800x600.jpg)
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2016/09/NavigationIndicators_Xusni.gif)
 
 Inspiration for Navigation Indicators - [Codrops](https://tympanus.net/codrops/2016/09/02/inspiration-navigation-indicators/)
 
