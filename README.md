@@ -92,3 +92,9 @@ Interactive Record Player - [Codrops](https://tympanus.net/codrops/2016/06/15/in
 Inspiration for Navigation Indicators - [Codrops](https://tympanus.net/codrops/2016/09/02/inspiration-navigation-indicators/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/10/ShapeOverlays.png)
+
+Dynamic Shape Overlays with SVG - [Codrops](https://tympanus.net/codrops/2017/10/17/dynamic-shape-overlays-with-svg/)
+
+---
