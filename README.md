@@ -98,3 +98,7 @@ Inspiration for Navigation Indicators - [Codrops](https://tympanus.net/codrops/2
 Dynamic Shape Overlays with SVG - [Codrops](https://tympanus.net/codrops/2017/10/17/dynamic-shape-overlays-with-svg/)
 
 ---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/11/AnimatedFrameSlideshow_Featured.jpg)
+
+Animated SVG Frame Slideshow - [Codrops](https://tympanus.net/codrops/2017/11/15/animated-svg-frame-slideshow/)
