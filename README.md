@@ -102,3 +102,9 @@ Dynamic Shape Overlays with SVG - [Codrops](https://tympanus.net/codrops/2017/10
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/11/AnimatedFrameSlideshow_Featured.jpg)
 
 Animated SVG Frame Slideshow - [Codrops](https://tympanus.net/codrops/2017/11/15/animated-svg-frame-slideshow/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/11/DecorativeWebGLBackgrounds01.png)
+
+Decorative WebGL Backgrounds - [Codrops](https://tympanus.net/codrops/2017/11/28/decorative-webgl-backgrounds/)
