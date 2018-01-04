@@ -114,3 +114,9 @@ Decorative WebGL Backgrounds - [Codrops](https://tympanus.net/codrops/2017/11/28
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/12/AnimatedStrokes.png)
 
 Creative SVG Strokes Animation - [Codrops](https://tympanus.net/codrops/2017/12/05/creative-svg-strokes-animation/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/12/3dparticleexplorations.jpg)
+
+3D Particle Explorations - [Codrops](https://tympanus.net/codrops/2017/12/12/3d-particle-explorations/)
