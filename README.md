@@ -108,3 +108,9 @@ Animated SVG Frame Slideshow - [Codrops](https://tympanus.net/codrops/2017/11/15
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/11/DecorativeWebGLBackgrounds01.png)
 
 Decorative WebGL Backgrounds - [Codrops](https://tympanus.net/codrops/2017/11/28/decorative-webgl-backgrounds/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/12/AnimatedStrokes.png)
+
+Creative SVG Strokes Animation - [Codrops](https://tympanus.net/codrops/2017/12/05/creative-svg-strokes-animation/)
