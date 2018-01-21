@@ -120,3 +120,9 @@ Creative SVG Strokes Animation - [Codrops](https://tympanus.net/codrops/2017/12/
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/12/3dparticleexplorations.jpg)
 
 3D Particle Explorations - [Codrops](https://tympanus.net/codrops/2017/12/12/3d-particle-explorations/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/01/DecorativeLetterEffects_featured.jpg)
+
+Decorative Letter Animations - [Codrops](https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/)
