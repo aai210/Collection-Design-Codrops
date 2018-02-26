@@ -126,3 +126,9 @@ Creative SVG Strokes Animation - [Codrops](https://tympanus.net/codrops/2017/12/
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/01/DecorativeLetterEffects_featured.jpg)
 
 Decorative Letter Animations - [Codrops](https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/02/PiecesSlider.jpg)
+
+Decorative Letter Animations - [Codrops](https://tympanus.net/codrops/2018/02/21/animated-fragment-slideshow/)
