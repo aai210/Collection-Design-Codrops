@@ -131,4 +131,4 @@ Decorative Letter Animations - [Codrops](https://tympanus.net/codrops/2018/01/10
 
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/02/PiecesSlider.jpg)
 
-Decorative Letter Animations - [Codrops](https://tympanus.net/codrops/2018/02/21/animated-fragment-slideshow/)
+Animated Fragment Slideshow - [Codrops](https://tympanus.net/codrops/2018/02/21/animated-fragment-slideshow/)
