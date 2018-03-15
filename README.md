@@ -132,3 +132,9 @@ Decorative Letter Animations - [Codrops](https://tympanus.net/codrops/2018/01/10
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/02/PiecesSlider.jpg)
 
 Animated Fragment Slideshow - [Codrops](https://tympanus.net/codrops/2018/02/21/animated-fragment-slideshow/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/03/GlitchSlideshow_featured.jpg)
+
+Glitch Effect Slideshow - [Codrops](https://tympanus.net/codrops/2018/03/13/glitch-effect-slideshow/)
