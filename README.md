@@ -138,3 +138,9 @@ Animated Fragment Slideshow - [Codrops](https://tympanus.net/codrops/2018/02/21/
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/03/GlitchSlideshow_featured.jpg)
 
 Glitch Effect Slideshow - [Codrops](https://tympanus.net/codrops/2018/03/13/glitch-effect-slideshow/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/03/GridMenu_featured.jpg)
+
+Expanding Grid Menu - [Codrops](https://tympanus.net/codrops/2018/03/28/grid-menu/)
