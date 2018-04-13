@@ -144,3 +144,9 @@ Glitch Effect Slideshow - [Codrops](https://tympanus.net/codrops/2018/03/13/glit
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/03/GridMenu_featured.jpg)
 
 Expanding Grid Menu - [Codrops](https://tympanus.net/codrops/2018/03/28/grid-menu/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/04/DistortionHoverEffect.jpg)
+
+WebGL Distortion Hover Effects - [Codrops](https://tympanus.net/codrops/2018/04/10/webgl-distortion-hover-effects/)
