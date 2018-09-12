@@ -3,6 +3,12 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2012/06/SlitSlider.jpg)
+
+Fullscreen Slit Slider with jQuery and CSS3 - [Codrops](https://tympanus.net/codrops/2012/06/05/fullscreen-slit-slider-with-jquery-and-css3/)
+
+---
+
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/09/AnimatedHeaderBackgrounds.png)
 
 Animated Background Headers - [Codrops](https://tympanus.net/codrops/2014/09/23/animated-background-headers/)
