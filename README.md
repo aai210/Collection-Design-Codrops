@@ -168,3 +168,9 @@ WebGL Distortion Hover Effects - [Codrops](https://tympanus.net/codrops/2018/08/
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2018/10/Animated-Grids-Layout_Featured.jpg)
 
 Animated Grid Previews - [Codrops](https://tympanus.net/codrops/2018/10/31/animated-grids-layout/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/01/MeshLines_Featured-2.jpg)
+
+Animated Mesh Lines - [Codrops](https://tympanus.net/codrops/2019/01/08/animated-mesh-lines/)
