@@ -174,3 +174,9 @@ Animated Grid Previews - [Codrops](https://tympanus.net/codrops/2018/10/31/anima
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/01/MeshLines_Featured-2.jpg)
 
 Animated Mesh Lines - [Codrops](https://tympanus.net/codrops/2019/01/08/animated-mesh-lines/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/02/Fake3dEffect_featured.jpg)
+
+How to Create a Fake 3D Image Effect with WebGL - [Codrops](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/)
