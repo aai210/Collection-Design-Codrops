@@ -180,3 +180,9 @@ Animated Mesh Lines - [Codrops](https://tympanus.net/codrops/2019/01/08/animated
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/02/Fake3dEffect_featured.jpg)
 
 How to Create a Fake 3D Image Effect with WebGL - [Codrops](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/05/GridToFullscreen_featured.jpg)
+
+Creating Grid-to-Fullscreen Animations - [Codrops](https://tympanus.net/codrops/2019/05/22/creating-grid-to-fullscreen-animations-with-three-js/)
