@@ -197,4 +197,4 @@ Active Theory v5 - [Codrops](https://activetheory.net/home)
 
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/10/Blurry_featured.jpg)
 
-Creating Grid-to-Fullscreen Animations - [Codrops](https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/)
+Simulating Depth of Field with Particles using the Blurry Library - [Codrops](https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/)
