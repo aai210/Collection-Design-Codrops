@@ -198,3 +198,9 @@ Active Theory v5 - [Codrops](https://activetheory.net/home)
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/10/Blurry_featured.jpg)
 
 Simulating Depth of Field with Particles using the Blurry Library - [Codrops](https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/)
+
+---
+
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/11/LightTrails_featured.jpg)
+
+High-speed Light Trails in Three.js - [Codrops](https://tympanus.net/codrops/2019/11/13/high-speed-light-trails-in-three-js/)
