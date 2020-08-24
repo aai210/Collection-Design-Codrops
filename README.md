@@ -3,6 +3,12 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2020/08/Buttons_featured.png)
+
+Magnetic Buttons - [Codrops](https://tympanus.net/codrops/2020/08/05/magnetic-buttons/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
+
+---
+
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2012/06/SlitSlider.jpg)
 
 Fullscreen Slit Slider with jQuery and CSS3 - [Codrops](https://tympanus.net/codrops/2012/06/05/fullscreen-slit-slider-with-jquery-and-css3/)
