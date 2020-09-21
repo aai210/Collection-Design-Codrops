@@ -3,6 +3,12 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2020/09/MenuToGrid_featured.jpg)
+
+Menu to Inner Page Animation with Image Grid Background - [Codrops](https://tympanus.net/codrops/2020/09/16/menu-to-inner-page-animation-with-image-grid-background/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
+
+---
+
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2020/09/DiagonalThumbnailsSlideshow_featured.jpg)
 
 Diagonal Thumbnail Slideshow Animation - [Codrops](https://tympanus.net/codrops/2020/09/01/diagonal-thumbnail-slideshow-animation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
