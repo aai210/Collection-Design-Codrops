@@ -3,6 +3,12 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/02/buttonstyles.jpg)
+
+Ideas for CSS Button Hover Animations - [Codrops](https://tympanus.net/codrops/2021/02/17/ideas-for-css-button-hover-animations/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
+
+---
+
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/02/LineHover_featured.jpg)
 
 Simple CSS Line Hover Animations for Links - [Codrops](https://tympanus.net/codrops/2021/02/10/simple-css-line-hover-animations-for-links/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
