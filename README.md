@@ -3,6 +3,13 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+
+![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/01/diceroller-1.jpg)
+
+Crafting a Dice Roller with Three.js and Cannon-es - [Codrops](https://tympanus.net/codrops/2023/01/25/crafting-a-dice-roller-with-three-js-and-cannon-es/)
+
+---
+
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/02/buttonstyles.jpg)
 
 Ideas for CSS Button Hover Animations - [Codrops](https://tympanus.net/codrops/2021/02/17/ideas-for-css-button-hover-animations/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
