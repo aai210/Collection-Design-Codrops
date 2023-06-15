@@ -3,6 +3,11 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/05/gradientmask.jpg?x64204)
+
+Recreating the Gradient Mask Hover Effect from Evervault - [Codrops](https://tympanus.net/codrops/2023/05/17/recreating-the-gradient-mask-hover-effect-from-evervault/)
+
+---
 
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/01/diceroller-1.jpg)
 
