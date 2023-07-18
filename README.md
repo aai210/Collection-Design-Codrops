@@ -3,6 +3,12 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/06/cliphoverslices_featured.gif)
+
+Coding the Sliced Image Hover Effect from Quai Network - [Codrops](https://tympanus.net/codrops/2023/06/21/coding-the-sliced-image-hover-effect-from-quai-network/)
+
+---
+
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/05/gradientmask.jpg?x64204)
 
 Recreating the Gradient Mask Hover Effect from Evervault - [Codrops](https://tympanus.net/codrops/2023/05/17/recreating-the-gradient-mask-hover-effect-from-evervault/)
