@@ -3,6 +3,12 @@ Inspiring collection of favorite projects with Codrops
 
 # Projects
 
+![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/08/ConnectedGrid_feat.jpg?x67760)
+
+Connected Grid Layout Animation - [Codrops](https://tympanus.net/codrops/2023/08/30/connected-grid-layout-animation/)
+
+---
+
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/06/cliphoverslices_featured.gif)
 
 Coding the Sliced Image Hover Effect from Quai Network - [Codrops](https://tympanus.net/codrops/2023/06/21/coding-the-sliced-image-hover-effect-from-quai-network/)
