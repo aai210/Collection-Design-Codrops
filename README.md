@@ -1,7 +1,11 @@
 # Collection Design Codrops
 Inspiring collection of favorite projects with Codrops
 
-# Projects
+![](https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/10/Astro.jpg?x49023)
+
+Animating Multi-Page Navigations with Browser View Transitions and Astro - [Codrops](https://tympanus.net/codrops/2023/10/03/animating-multi-page-navigations-with-browser-view-transitions-and-astro/)
+
+---
 
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/08/ConnectedGrid_feat.jpg?x67760)
 
