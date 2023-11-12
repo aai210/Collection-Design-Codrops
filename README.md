@@ -1,6 +1,12 @@
 # Collection Design Codrops
 Inspiring collection of favorite projects with Codrops
 
+![](https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/11/PixelTooltip.jpg?x17621)
+
+Dynamic Tooltip Reveal Animations - [Codrops](https://tympanus.net/codrops/2023/11/08/dynamic-tooltip-reveal-animations/)
+
+---
+
 ![](https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/10/Astro.jpg?x49023)
 
 Animating Multi-Page Navigations with Browser View Transitions and Astro - [Codrops](https://tympanus.net/codrops/2023/10/03/animating-multi-page-navigations-with-browser-view-transitions-and-astro/)
